@@ -1,3 +1,3 @@
 # Vivekanand gaddigi
-[![Vivekanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekanand Gaddigi)](https://github.com/VivekanandGaddigi/github-readme-stats)
+[![Vivekanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekgaddigi)](https://github.com/VivekGaddigi/github-readme-stats)
 
